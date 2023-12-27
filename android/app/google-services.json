@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "111192289134",
+    "project_id": "authtutorial-24cb1",
+    "storage_bucket": "authtutorial-24cb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111192289134:android:8663c98e562454ddaf9b7f",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111192289134-66lb5gsh59h4siqg10mtjpmt6838ian2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkN9gEIsvyofFLAE8gZhHw_V66Nk7cBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111192289134-66lb5gsh59h4siqg10mtjpmt6838ian2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111192289134-dkeec8pthij63o2nlr2no2qpvb3kjtap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Twowear"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111192289134:android:4e51f4033d06df5aaf9b7f",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111192289134-66lb5gsh59h4siqg10mtjpmt6838ian2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMkN9gEIsvyofFLAE8gZhHw_V66Nk7cBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111192289134-66lb5gsh59h4siqg10mtjpmt6838ian2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "111192289134-dkeec8pthij63o2nlr2no2qpvb3kjtap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Twowear"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
